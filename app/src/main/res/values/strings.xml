@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Oila byudjeti</string>
+    <string name="text_save_transaction">Tranzaksiyani saqlash</string>
+    <string name="text_ui_mode">UI Rejimi</string>
+    <string name="text_total_income">Umumiy Daromad</string>
+    <string name="text_total_expense">Umumiy Xarajat</string>
+    <string name="text_total_balance">Umumiy Balans</string>
+    <string name="text_recent_transactions">Tranzaksiyalar</string>
+    <string name="text_view_all">Barchasini ko\'rish</string>
+    <string name="text_expense_when">Sana</string>
+    <string name="text_expense_amount">Miqdor</string>
+    <string name="text_expense_transaction_type">Tranzaksiya turi</string>
+    <string name="text_expense_tag">Kategoriya</string>
+    <string name="text_expense_note">Qo\'shimcha</string>
+    <string name="text_expense_add_transaction">Tranzaksiyani saqlash</string>
+    <string name="text_expense_rupees">so\'m</string>
+    <string name="success_expense_saved">Tranzaksiya muvaffaqiyatli saqlandi</string>
+    <string name="success_transaction_delete">Tranzaksiya muvaffaqiyatli o\'chirildi!</string>
+    <string name="text_title">Sarlavha</string>
+    <string name="text_about">Ilova haqida</string>
+    <string name="text_filter">Filter</string>
+    <string name="text_edit">Tahrirlash</string>
+    <string name="text_createdAt">Yaratilgan vaqt</string>
+
+    <!--  Share -->
+    <string name="success_transaction_export">Tranzaksiya muvaffaqiyatli eksport qilindi!</string>
+    <string name="failed_transaction_export">Tranzaksiya eksport qilinmadi ☹️</string>
+    <string name="text_error">Tranzaksiya eksport qilinmadi ☹️</string>
+    <string name="support_pending">Oops nimadir xato!</string>
+    <string name="text_open">Ochish</string>
+
+    <!-- About-->
+    <string name="text_app_version">v%s (%d)</string>
+    <string name="text_share_as_text">Text sifatida Ulashing</string>
+    <string name="text_share_as_image">Rasm sifatida ulashing</string>
+    <string name="text_delete">O\'chirish</string>
+    <string name="text_share">Ulashish</string>
+
+    <!-- share transaction -->
+    <string name="share_message">\nSarlavha: %s \nMiqdor: %s, \nTranzaksiya turi: %s, \nKategoriya: %s, \nSana: %s, \nQo\'shimcha: %s, \nYaratilgan vaqt: %s</string>
+    <string name="text_transaction_empty_title">Hozircha tranzaksiya amalga oshirilmagan!</string>
+    <string name="text_transaction_empty_desc">Birinchi tranzaksiyadan so\'ng uni shu yerda ko\'rishingiz mumkin bo\'ladi!</string>
+    <string name="text_add_transaction">Tranzaksiya qo\'shish</string>
+    <string name="text_undo">Bekor qilish</string>
+    <string name="text_error_occurred">Xatolik yuz berdi!</string>
+
+</resources>
