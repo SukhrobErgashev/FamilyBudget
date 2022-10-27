@@ -22,7 +22,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:text="Dasturchi: Jo\'raqulov Laziz" />
+            android:text="Dasturchi: Suxrob Ergashev\nTel: (90) 227-7066" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>

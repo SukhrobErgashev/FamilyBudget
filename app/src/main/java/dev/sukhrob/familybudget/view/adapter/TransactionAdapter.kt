@@ -8,7 +8,7 @@ import toListOfDataItem
 import java.lang.ClassCastException
 
 
-class TransactionAdapter : ListAdapter<DataItem, TransactionViewHolder>(DataItemDiffCallback()) {
+class  TransactionAdapter : ListAdapter<DataItem, TransactionViewHolder>(DataItemDiffCallback()) {
 
     companion object {
         const val HEADER_VIEW_TYPE = 0
